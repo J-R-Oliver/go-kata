@@ -6,21 +6,21 @@ import (
 )
 
 // Returns III which is the Roman Numeral of 3
-func ExampleRomanNumeralEncoder_3() {
+func ExampleRomanNumeralEncoder_three() {
 	r := RomanNumeralEncoder(3)
 	fmt.Println(r)
 	// Output: III
 }
 
 // Returns XLII which is the Roman Numeral of 42
-func ExampleRomanNumeralEncoder_42() {
+func ExampleRomanNumeralEncoder_fortytwo() {
 	r := RomanNumeralEncoder(42)
 	fmt.Println(r)
 	// Output: XLII
 }
 
 // Returns XCVIII which is the Roman Numeral of 98
-func ExampleRomanNumeralEncoder_98() {
+func ExampleRomanNumeralEncoder_ninetyeight() {
 	r := RomanNumeralEncoder(98)
 	fmt.Println(r)
 	// Output: XCVIII

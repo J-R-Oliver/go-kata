@@ -29,7 +29,6 @@ To install and modify this project you will need to have:
 
 - [Go](https://go.dev)
 - [Git](https://git-scm.com)
--
 
 ### Installation
 

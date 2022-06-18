@@ -1,8 +1,10 @@
 # go-kata
 
 [![Build](https://github.com/J-R-Oliver/go-kata/actions/workflows/build.yml/badge.svg)](https://github.com/J-R-Oliver/g0-kata/actions/workflows/build.yml)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/J-R-Oliver/go-kata)](https://github.com/gomods/athens)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/J-R-Oliver/go-kata)](https://goreportcard.com/report/github.com/J-R-Oliver/go-kata)
 
 <table>
 <tr>

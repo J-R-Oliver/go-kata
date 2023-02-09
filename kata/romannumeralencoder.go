@@ -1,6 +1,5 @@
 package kata
 
-//nolint:gomnd
 // RomanNumeralEncoder returns the Roman Numeral of integer N as a string
 func RomanNumeralEncoder(i int) string {
 	iRemaining := i
